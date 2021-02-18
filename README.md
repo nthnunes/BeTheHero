@@ -15,7 +15,7 @@ Semana OmninStack ministrada pelo Diego Fernandes com intuito de criar aplicaç�
 
 - ReactJS
   - Axios (Cliente HTTP)
-  - React-dom (Integracao do react com o navegador)
+  - React-dom (Integração do react com o navegador)
   - React-router-dom (Navegação entre componetes)
 
 <p align="center">

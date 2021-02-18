@@ -19,5 +19,6 @@ Semana OmninStack ministrada pelo Diego Fernandes com intuito de criar aplicaç�
   - React-router-dom (Navegação entre componetes)
 
 <p align="center">
+  <br />
   <img src="frontend/src/assets/logo.svg"/><br/>
 </p>

@@ -1,6 +1,6 @@
 # Sobre
 
-Semana OmninStack ministrada pelo Diego Fernandes com intuito de criar aplicações hibridas para dispositivos android e ios utilizando ReactJS no front-end e React Native no mobile.
+Aplicação híbrida para dispositivos android e ios utilizando ReactJS no front-end e React Native no mobile.
 
 
 # Tecnologias Backend
